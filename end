@@ -1,0 +1,53 @@
+[33mcommit bda1bd8111abb73a0fbcdf1ff1aa3c7256501374[m
+Author: 刘剑雄 <785395338@qq.com>
+Date:   Sat Aug 13 11:23:24 2016 +0800
+
+    first commit
+
+[33mcommit 15b2d1648b43b74c8eba1af20440b8c4edc2b009[m
+Author: 刘剑雄 <785395338@qq.com>
+Date:   Sat Aug 13 09:13:22 2016 +0800
+
+    文件进行提交
+
+[33mcommit 1c7bf69b8243aa137361e676fe9e648729df1ac4[m
+Author: 刘剑雄 <785395338@qq.com>
+Date:   Fri Aug 12 16:15:45 2016 +0800
+
+    添加b.txt文件
+
+[33mcommit 1fb3f9df37c1b4858501c6d2c47bc56f63ed3489[m
+Author: 刘剑雄 <785395338@qq.com>
+Date:   Fri Aug 12 15:58:13 2016 +0800
+
+    去掉f.txt中的一行5555提交
+
+[33mcommit 599a99167066077e6ead131877ae936d8086fd24[m
+Author: 刘剑雄 <785395338@qq.com>
+Date:   Fri Aug 12 15:52:24 2016 +0800
+
+    一次性提交所有文件，包括新建文件test.txt'
+
+[33mcommit 368b13354f81a919a4007841231bb6aa7d52de6e[m
+Author: 刘剑雄 <785395338@qq.com>
+Date:   Fri Aug 12 15:45:49 2016 +0800
+
+    f.txt添加4444提交
+
+[33mcommit cc93a216905b624a5f15081080f04da33d57b698[m
+Author: 刘剑雄 <785395338@qq.com>
+Date:   Fri Aug 12 15:25:59 2016 +0800
+
+    添加f.txt文件内容为33333
+
+[33mcommit cb2520122cbd2b051f3b7c70a0a9352baf60117c[m
+Author: 刘剑雄 <785395338@qq.com>
+Date:   Fri Aug 12 15:17:47 2016 +0800
+
+    f.txt提交
+
+[33mcommit 1fcb0641283ad5ea57487ba9fc8da272cec39769[m
+Author: 刘剑雄 <785395338@qq.com>
+Date:   Fri Aug 12 15:10:31 2016 +0800
+
+    f.txt练习提交
